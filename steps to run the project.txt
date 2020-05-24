@@ -1,0 +1,11 @@
+1.make a google form add email,name ,date,time
+2.form a response google sheet for that google form
+3.open tools and script editor from google sheet.
+4.enter the code for script and the email code seperately creating two .gs files
+5.run the main and see the uploaded appointments in your google calender.
+
+To use change the google calender id to the google calendar id you want int he code for script.
+
+for the google calender id go to google calendar adn setting and find the id copy and paste in code for script code.
+
+when the appointment is booked you will get a email confirmation that the slot is booked.
